@@ -1,5 +1,6 @@
 # tyrell_test_code
-This is the Test Progra
+This is the Test Progra and the SQL Improvement Logic Test Answers
+
 
 Installation for test code 
 1. Need install Xampp to run it
